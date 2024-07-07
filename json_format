@@ -1,0 +1,62 @@
+{
+  "Personal Information": {
+    "Name": "THORLIKONDA VAMSI KRISHNA",
+    "Contact": {
+      "Phone": "+91-9182776081",
+      "Email": "tk8481@srmist.edu.in",
+      "Address": "near vissannapet, Andhrapradesh, India - 521215"
+    },
+    "Summary": "I am a dedicated student pursuing Computer Science and Information Technology at SRM University. ..."
+  },
+  "Education": [
+    {
+      "Degree": "B.Tech. - CSE - Information Technology",
+      "Institution": "SRM Institute of Science & Technology, Kattankulathur",
+      "Year": "2021 - 2025",
+      "CGPA": "8.50 / 10"
+    },
+    ...
+  ],
+  "Internships": [
+    {
+      "Duration": "05 Jul, 2023 - 05 Aug, 2023",
+      "Organization": "skill vertex",
+      "Role": "ds intern",
+      "Key Skills": "Data Analysis, Machine Learning, Statistical Data Analysis, Data Visualization",
+      "Description": "I completed a data science internship at skill vertex, where I actively contributed to data analysis, machine learning model development, and statistical modeling projects. ..."
+    },
+    ...
+  ],
+  "Projects": [
+    {
+      "Duration": "16 Jan, 2024 - 05 May, 2024",
+      "Title": "Hall booking system - database management system with sql",
+      "Mentor": "Dr.Thenmalar",
+      "Team Size": "1",
+      "Key Skills": "SQL, MySQL",
+      "Description": "currently I am working on this project which is a website connected with a virtual database ..."
+    },
+    ...
+  ],
+  "Skills": [
+    "SQL", "Python", "Javascript", "HTML", "DevOps", "AI", "CPP", "C", "Computer Networking"
+  ],
+  "Achievements": [
+    ...
+  ],
+  "Certifications": [
+    ...
+  ],
+  "Positions of Responsibility": [
+    ...
+  ],
+  "Seminars/Trainings/Workshops": [
+    ...
+  ],
+  "Extra Curricular Activities": [
+    ...
+  ],
+  "Personal Interests/Hobbies": [
+    "cricket", "learning new skills", "going to gym"
+  ]
+}
